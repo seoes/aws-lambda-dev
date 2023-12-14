@@ -15,7 +15,6 @@ The projects in this repository guide you through a journey from the basic conce
 -   Introduction to serverless computing on AWS.
 -   Understanding the differences between traditional server-based and serverless service development.
 -   Setting up the development environment including AWS account, AWS CLI, Node.js, nvm, TypeScript, Visual Studio Code, direnv, Docker, and WSL.
-<!--
 
 ### 2. Hello API
 
@@ -23,6 +22,8 @@ The projects in this repository guide you through a journey from the basic conce
 -   Applying various tools and technologies such as Webpack, source maps, and serverless.ts.
 -   Considerations for production services, including service limits, API Gateway limits, and strategies for CloudWatch Logs and monitoring.
 -   Detailed exploration of cost calculations for serverless APIs.
+
+<!--
 
 ### 3. Photo Optimization Service
 
