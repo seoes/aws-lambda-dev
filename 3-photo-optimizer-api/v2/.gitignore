@@ -1,0 +1,8 @@
+.env
+
+.serverless/
+.webpack/
+node_modules/
+exodus/
+
+aws/
